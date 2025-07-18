@@ -54,9 +54,9 @@ This project provides an end-to-end analysis of a coffee shop’s retail sales d
 - 🏆 **Best-Selling Product:** Espresso
 - 🕒 **Peak Hours:** 7 AM – 10 AM
 - 🏪 **Top Performing Location:** Hell's Kitchen
-- 📆 **Highest Sales Month:** [Insert actual month from Excel]
-- 💸 **Average Order Value:** ₹[Insert actual average]
-- 🧾 **Total Revenue Analyzed:** ₹[Insert actual total from dashboard]
+- 📆 **Highest Sales Month:** June
+- 💸 **Average Order Value:** $4.69
+- 🧾 **Total Revenue Analyzed:** $698,812.33
 
 ---
 
@@ -73,15 +73,6 @@ This project provides an end-to-end analysis of a coffee shop’s retail sales d
 - Business Intelligence using Excel
 - Visual Dashboard Design
 - Decision-Driven Data Interpretation
-
----
-
-## 📌 Future Improvements
-
-- Add **sales forecasting** using trendlines or linear regression.
-- Automate data import using **Power Query**.
-- Expand dashboard to include **cost and profit margin** metrics.
-- Convert the project into a **Power BI version** for broader deployment.
 
 ---
 

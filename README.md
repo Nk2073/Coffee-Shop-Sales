@@ -62,7 +62,7 @@ This project provides an end-to-end analysis of a coffee shop’s retail sales d
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
